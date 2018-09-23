@@ -2,7 +2,7 @@
  * Java. Level 2. Lesson 1. HomeWork.
  * @author Yuriy Fedak.
  * @version 23.09.2018.
- * @link
+ * @link https://github.com/YuFFus/Java_L2.git ; 
  */
 
 package Java_2.Lesson_1;
